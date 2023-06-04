@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-04T17:25:51.833Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="Y2edEgmwDDndHatUfwBD" version="20.8.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-04T17:31:05.054Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="cPzYc-Bro8ji8eEKbHbP" version="20.8.8" type="github">
   <diagram name="Page-1" id="TC_4WfJnMGVma51VtcSm">
     <mxGraphModel dx="749" dy="855" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
       <root>
@@ -30,10 +30,11 @@
         </mxCell>
         <mxCell id="ad1aPUpGKpew4Hz-ZdNQ-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ad1aPUpGKpew4Hz-ZdNQ-13">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="280" y="1720" as="targetPoint" />
+            <mxPoint x="300" y="1760" as="targetPoint" />
             <Array as="points">
               <mxPoint x="210" y="220" />
-              <mxPoint x="210" y="1720" />
+              <mxPoint x="210" y="1760" />
+              <mxPoint x="290" y="1760" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -41,10 +42,10 @@
           <mxGeometry x="260" y="190" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ad1aPUpGKpew4Hz-ZdNQ-14" value="admin views" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;" vertex="1" parent="1">
-          <mxGeometry x="280" y="1380" width="120" height="60" as="geometry" />
+          <mxGeometry x="280" y="1340" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ad1aPUpGKpew4Hz-ZdNQ-15" value="Edit Profile views" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;" vertex="1" parent="1">
-          <mxGeometry x="280" y="1690" width="120" height="60" as="geometry" />
+          <mxGeometry x="290" y="1730" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ad1aPUpGKpew4Hz-ZdNQ-17" value="Teacher views" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;" vertex="1" parent="1">
           <mxGeometry x="260" y="820" width="120" height="60" as="geometry" />
@@ -79,7 +80,7 @@
             <mxPoint x="280" y="1719.9999999999995" as="sourcePoint" />
             <mxPoint x="65" y="500" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="180" y="1720" />
+              <mxPoint x="180" y="1760" />
               <mxPoint x="180" y="1620" />
               <mxPoint x="180" y="750" />
               <mxPoint x="65" y="750" />
@@ -191,8 +192,20 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ad1aPUpGKpew4Hz-ZdNQ-59" value="Home View" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;" vertex="1" parent="1">
-          <mxGeometry x="510" y="1380" width="120" height="60" as="geometry" />
+        <mxCell id="ad1aPUpGKpew4Hz-ZdNQ-59" value="Dashboard view" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="520" y="1310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ad1aPUpGKpew4Hz-ZdNQ-60" value="Accept/Decline Student view" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="520" y="1410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ad1aPUpGKpew4Hz-ZdNQ-61" value="Accept/Decline Teacher view" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="520" y="1510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ad1aPUpGKpew4Hz-ZdNQ-62" value="View Exam view" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="520" y="1590" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ad1aPUpGKpew4Hz-ZdNQ-63" value="View Assignment View" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="520" y="1670" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

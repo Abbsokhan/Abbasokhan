@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-06-04T17:00:46.219Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="QQMR8ARDJF7n6mVnZNt0" version="20.8.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-04T17:12:04.702Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="oJBkSM27CPhv-Dr1OlU1" version="20.8.8" type="github">
   <diagram name="Page-1" id="TC_4WfJnMGVma51VtcSm">
-    <mxGraphModel dx="1687" dy="858" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
+    <mxGraphModel dx="749" dy="855" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -108,6 +108,21 @@
             <mxPoint x="160" y="590" as="sourcePoint" />
             <mxPoint x="260" y="590" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="ad1aPUpGKpew4Hz-ZdNQ-40" value="Auth Controller" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="700" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ad1aPUpGKpew4Hz-ZdNQ-41" value="Home view" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="480" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ad1aPUpGKpew4Hz-ZdNQ-42" value="Registration view&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="480" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ad1aPUpGKpew4Hz-ZdNQ-43" value="Home view" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="480" y="550" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ad1aPUpGKpew4Hz-ZdNQ-44" value="Home view" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="480" y="660" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
